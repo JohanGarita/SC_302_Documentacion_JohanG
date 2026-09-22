@@ -1,2 +1,2 @@
 # SC_302_Documentacion_JohanG
-d
+Esta es mi primera práctica con Github
